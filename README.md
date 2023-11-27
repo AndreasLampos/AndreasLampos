@@ -1,4 +1,5 @@
-# 💫 About Me:
+![banner](https://github.com/AndreasLampos/AndreasLampos/assets/17687288/4f713810-0fe3-4a8f-a4b2-991862de0bf4)
+
 🔭 I’m currently studying at Athens University of Economics and Business<br>🌱 I’m currently learning C++ and Assembly<br>📫 How to reach me: anlampos@gmail.com
 
 
