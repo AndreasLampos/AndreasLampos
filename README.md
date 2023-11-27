@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying at Athens University of Economics and Business
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Assembly 
 - 📫 How to reach me: anlampos@gmail.com
 <!--
 **AndreasLampos/AndreasLampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
