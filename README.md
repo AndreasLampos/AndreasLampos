@@ -26,7 +26,5 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=AndreasLampos&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=AndreasLampos&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
