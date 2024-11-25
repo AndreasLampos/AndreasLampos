@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AndreasLampos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=socrates&font=default&quoteType=random&bgColor=black&fontColor=black)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AndreasLampos&limit=5&theme=dark&combine_all_yearly_contributions=true)
