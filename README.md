@@ -1,7 +1,7 @@
 ![banner](https://github.com/AndreasLampos/AndreasLampos/assets/17687288/4f713810-0fe3-4a8f-a4b2-991862de0bf4)
 
 # 💫 About Me:
-🔭 I’m currently studying at Athens University of Economics and Business. On my 6th Semester<br>📫 How to reach me: anlampos@gmail.com
+🔭 I’m currently studying at Athens University of Economics and Business. On my 7th Semester<br>📫 How to reach me: anlampos@gmail.com
 
 
 ## 🌐 Socials:
